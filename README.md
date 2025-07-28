@@ -1,17 +1,22 @@
 # LLM Project
 
 ## Project Task
-(fill in details about your chosen project)
+Describe the NLP task you chose to work on (e.g., sentiment analysis, document summarization).
 
 ## Dataset
-(fill in details about the dataset you're using)
+Provide details about the dataset you used for your project.
 
 ## Pre-trained Model
-(fill in details about the pre-trained model you selected)
+Explain which pre-trained model you selected and why it fits your project.
 
 ## Performance Metrics
-(fill in details about your chosen metrics and results)
+List the performance metrics you used to evaluate your model and summarize the results.
 
 ## Hyperparameters
-(fill in details about which hyperparemeters you found most important/relevant while optimizing your model)
+Describe which hyperparameters you found most important or relevant when optimizing your model.
+
+## Relevant Link 
+- link to your model on hugging face
+- link to your dataset
+
 
