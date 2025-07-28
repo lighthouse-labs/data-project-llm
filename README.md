@@ -16,7 +16,7 @@ List the performance metrics you used to evaluate your model and summarize the r
 Describe which hyperparameters you found most important or relevant when optimizing your model.
 
 ## Relevant Link 
-- link to your model on hugging face
+- link to your model on Hugging Face
 - link to your dataset
 
 
